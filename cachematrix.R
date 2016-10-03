@@ -34,7 +34,7 @@ makeCacheMatrix <- function(x = matrix()) {
 # FUNCTION 2
 # ----------
 # The cacheSolve function checks for matrix inversion in cache and, if present, 
-# skips the calculation, If the matrix inversion is not found, program flow drops
+# skips the calculation. If the matrix inversion is not found, program flow drops
 # down to calculate the matrix inversion and return the result as "inverse1".
 #
 cacheSolve <- function(x, ...) {
