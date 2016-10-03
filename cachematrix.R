@@ -1,6 +1,5 @@
 # ID = 2 / Submission 2 / FINAL
 # Parent: c4f60ef / Commit: ebc44be47f343d5d3e9ee0308580e5b33495854d
-# rm(list = ls())
 # ================================================================================
 #
 # Matrix inversion beyond 1000 X 1000 exceeded the capability of my laptop and
